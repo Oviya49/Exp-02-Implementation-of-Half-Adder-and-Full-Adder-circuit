@@ -62,7 +62,7 @@ or(carry,p,q,r);
 endmodule
 
 
-###Truth table
+Truth table
 
 
 ###HALF ADDER
