@@ -35,8 +35,7 @@ Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
-Program:
-```
+###Program:
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: Oviya N
 RegisterNumber:212223040140
@@ -62,35 +61,35 @@ and(r,a,c);
 or(carry,p,q,r);
 endmodule
 
-```
-Truth table
-```
+###
+###Truth table
+
 HALF ADDER
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/ed810328-beac-46a9-88f4-056cdf0554ee)
 
 FULL ADDER
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/6f13d888-7cbc-43c6-939a-c64ba1438e23)
 
-```
+###
 RTL realization
 
 ### Output:
-```
-HALF ADDER
+
+###HALF ADDER
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/6a313231-3940-4f68-95a9-803fbb5bb0e9)
 
-FULL ADDER
+###FULL ADDER
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/8f018627-afee-4928-a9cb-7989a260b44e)
 
 ### TIMING DIAGRAM
 
-HALF ADDER
+###HALF ADDER
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/c06e84a9-a3a0-4d60-945d-9fa3a8485712)
 
-FULL ADDER
+###FULL ADDER
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/23b46d09-1cf6-46a5-8177-ec0441656e6b)
 
-```
+
  
 
 ### Result:
