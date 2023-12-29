@@ -64,6 +64,7 @@ endmodule
 
 ###Truth table
 
+
 HALF ADDER
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/ed810328-beac-46a9-88f4-056cdf0554ee)
 
