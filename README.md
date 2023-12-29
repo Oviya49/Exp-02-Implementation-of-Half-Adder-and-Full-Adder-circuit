@@ -65,7 +65,7 @@ endmodule
 Truth table
 
 
-###HALF ADDER
+HALF ADDER
 
 
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/ed810328-beac-46a9-88f4-056cdf0554ee)
@@ -80,18 +80,26 @@ RTL realization
 
 ### Output:
 
-###HALF ADDER
+HALF ADDER
+
+
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/6a313231-3940-4f68-95a9-803fbb5bb0e9)
 
-###FULL ADDER
+FULL ADDER
+
+
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/8f018627-afee-4928-a9cb-7989a260b44e)
 
 ### TIMING DIAGRAM
 
-###HALF ADDER
+HALF ADDER
+
+
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/c06e84a9-a3a0-4d60-945d-9fa3a8485712)
 
-###FULL ADDER
+FULL ADDER
+
+
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/23b46d09-1cf6-46a5-8177-ec0441656e6b)
 
 
