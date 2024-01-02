@@ -94,7 +94,6 @@ FULL ADDER
 
 HALF ADDER
 
-
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/c06e84a9-a3a0-4d60-945d-9fa3a8485712)
 
 FULL ADDER
@@ -103,7 +102,7 @@ FULL ADDER
 ![image](https://github.com/Oviya49/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153576803/23b46d09-1cf6-46a5-8177-ec0441656e6b)
 
 
- 
-
 ### Result:
+```
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
+```
